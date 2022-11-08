@@ -15,7 +15,7 @@ int main() {
 		sum2 += two;
 	}
 
-	cout << "ÇÕ»ê °á°ú: " << sum1 << "," << sum2 << endl;
+	cout << "Ã‡Ã•Â»Ãª Â°Ã¡Â°Ãº: " << sum1 << "," << sum2 << endl;
 
 	return 0;
 }
