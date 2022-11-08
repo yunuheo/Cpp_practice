@@ -11,9 +11,9 @@ int main() {
 	founding[1] = 1392;
 	founding[2] = 1948;
 
-	cout << "°í·Á °Ç±¹¿¬µµ: " << founding[0] << endl;
-	cout << "Á¶¼± °Ç±¹¿¬µµ: " << founding[1] << endl;
-	cout << "ÇÑ±¹ °Ç±¹¿¬µµ: " << founding[2] << endl;
+	cout << "ê³ ë ¤ ê±´êµ­ì—°ë„: " << founding[0] << endl;
+	cout << "ì¡°ì„  ê±´êµ­ì—°ë„: " << founding[1] << endl;
+	cout << "í•œêµ­ ê±´êµ­ì—°ë„: " << founding[2] << endl;
 
 	return 0;
 }
