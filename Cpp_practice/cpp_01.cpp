@@ -9,13 +9,15 @@ int main() {
 
 	int one = 1;
 	int two = 2;
-
+	
+	//기초적인 for문
 	for (int i = 0; i < 5; i++) {
 		sum1 += one;
 		sum2 += two;
 	}
-
-	cout << "�ջ� ���: " << sum1 << "," << sum2 << endl;
+	
+	#c++에서의 출력방법
+	cout << "ÇÕ»ê °á°ú: " << sum1 << "," << sum2 << endl;
 
 	return 0;
 }
