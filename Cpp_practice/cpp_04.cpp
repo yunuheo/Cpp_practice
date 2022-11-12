@@ -20,7 +20,7 @@ int main() {
 	bitset<8> bit7 = bit2 << 1;
 	bitset<8> bit8 = bit2 >> 1;
 
-	cout << "================À§¿¡ °á°ú¸¦ ¼ø¼­´ë·Î Ãâ·Â===================" << endl;
+	cout << "================ìœ„ì— ê²°ê³¼ë¥¼ ìˆœì„œëŒ€ë¡œ ì¶œë ¥===================" << endl;
 	cout << bit3 << "," << bit3.to_ulong() << endl;
 	cout << bit4 << "," << bit4.to_ulong() << endl;
 	cout << bit5 << "," << bit5.to_ulong() << endl;
