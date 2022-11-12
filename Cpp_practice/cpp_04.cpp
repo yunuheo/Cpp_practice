@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-
+	//비트연산자 이해하기
 	bitset<8> bit1;
 	bit1.reset(); // 0000 0000
 	bit1 = 126; // 0111 1111
