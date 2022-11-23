@@ -20,5 +20,4 @@ int main() {
 	cout << "문장에서 a의 개수는 " << count << "개 입니다." << endl;
 	
 	return 0;
-		
 }
