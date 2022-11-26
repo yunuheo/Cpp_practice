@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//이중for문으로 피보나치 수열 구현하기
 int main() {
 
 	int a = 0;
