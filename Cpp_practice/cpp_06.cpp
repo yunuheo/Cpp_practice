@@ -2,7 +2,6 @@
 
 using namespace std;
 
-//피보나치 수열 구현하기
 int main() {
 
 	int a = 0;
